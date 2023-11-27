@@ -1,7 +1,7 @@
 <h1 align="">Hi there
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>! I'm Front-end web developer</h1>
 
-### Languages and Tools:
+### Languages & Tools:
 
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=47C5FB)
 ![GraphQL](https://img.shields.io/badge/-Graphql-090909?style=for-the-badge&logo=Graphql)
