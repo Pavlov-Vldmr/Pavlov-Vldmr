@@ -1,7 +1,6 @@
 <h1 align="">Hi there
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-![CPT2311271655-632x83](https://github.com/Pavlov-Vldmr/Pavlov-Vldmr/assets/72386678/0ef97e20-58e9-43a7-a6ff-e7e022e903c4)
+<h1>I'm Front-end web developer.</h1>
 
 ### Languages and Tools:
 
