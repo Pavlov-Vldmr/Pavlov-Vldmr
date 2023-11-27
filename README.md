@@ -21,7 +21,7 @@
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/fryse)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/vladimir_gx)
+[![Vkontakte](https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/vladimir_gx)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/vova_sakh)
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail)](mailto:vpavlov95007@gmail.com)
 
