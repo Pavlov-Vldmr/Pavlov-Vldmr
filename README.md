@@ -5,12 +5,13 @@
 
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=47C5FB)
 ![GraphQL](https://img.shields.io/badge/-Graphql-090909?style=for-the-badge&logo=Graphql)
-![Sass](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
+![html5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
+![css3](https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=7acef4)
+![Sass](https://img.shields.io/badge/-SCSS/SASS-090909?style=for-the-badge&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![typeScript](https://img.shields.io/badge/-typeScript-090909?style=for-the-badge&logo=typeScript)
 ![jQuery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=jQuery&logoColor=7acef4)
 ![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp)
-![html5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
 ![npm](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=npm)
 
 ![Php](https://img.shields.io/badge/-Php-090909?style=for-the-badge&logo=Php)
