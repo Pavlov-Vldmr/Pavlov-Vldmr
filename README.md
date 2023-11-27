@@ -1,7 +1,7 @@
-<h1 align="center">Hi there
+<h1 align="">Hi there
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-![terminal](https://github.com/Pavlov-Vldmr/Pavlov-Vldmr/assets/72386678/34132567-abde-46ea-86b6-b21f3fa53e30)
+![CPT2311271655-632x83](https://github.com/Pavlov-Vldmr/Pavlov-Vldmr/assets/72386678/0ef97e20-58e9-43a7-a6ff-e7e022e903c4)
 
 ### Languages and Tools:
 
@@ -14,7 +14,6 @@
 ![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp)
 ![html5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
 ![npm](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=npm)
-
 
 ![Php](https://img.shields.io/badge/-Php-090909?style=for-the-badge&logo=Php)
 ![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=Laravel)
